@@ -1,0 +1,166 @@
+﻿Number;Discipline;Discipline_De;Discipline_Fr
+0;non-classifiable;Nicht zuteilbar;Non attribuable
+10000;Humanities and Social Sciences;Geistes- und Sozialwissenschaften;Sciences humaines et sociales
+10100;Theology & religious studies, history, classical studies, archaeology, prehistory and early history;Theologie & Religionswissenschaften, Geschichte, Altertumswissenschaften, Archäologie, Ur- und Frühgeschichte;Théologie & sciences des religions, histoire, sciences de l'Antiquité, archéologie, préhistoire
+10101;Philosophy;Philosophie;Philosophie
+10102;Religious studies, Theology;Religionswissenschaften, Theologie;Sciences des religions, théologie
+10103;Ecclesiastical history;Kirchengeschichte;Histoire de l`Eglise
+10104;Education and learning sciences, subject-specific education;Erziehungs- und Bildungswissenschaften, Fachdidaktiken;Sciences de l’éducation et de la formation, didactiques disciplinaires
+10105;Psychology;Psychologie;Psychologie
+10200;Linguistics and literature, philosophy;Sprach- und Literaturwissenschaften, Philosophie;Linguistique et littérature, philosophie
+10201;Sociology;Soziologie;Sociologie
+10202;Political science;Politikwissenschaften;Sciences politiques
+10203;Economics;Volkswirtschaftslehre;Economie politique
+10204;Science of management;Betriebswirtschaftslehre;Economie d`entreprise
+10205;Legal sciences;Rechtswissenschaften;Sciences juridiques
+10206;Social geography and ecology;Human- und Wirtschaftsgeografie, Humanökologie;Géographie humaine et économique, écologie humaine
+10207;Communication sciences;Kommunikations- und Medienwissenschaften;Sciences de la communication et des médias
+10300;Art studies, musicology, theatre and film studies, architecture;Kunstwissenschaften, Musikologie, Film- und Theaterwissenschaften, Architektur;Arts, musicologie, théâtre et cinéma, architecture
+10301;General history (without pre-and early history);Allgemeine Geschichte (ohne Ur- und Frühgeschichte);Histoire générale (sans préhistoire)
+10302;Swiss history;Schweizer Geschichte;Histoire suisse
+10303;Ancient history and Classical studies;Altertumswissenschaften;Sciences de l`Antiquité
+10400;Ethnology, social and human geography;Ethnologie, Sozial- und Humangeographie;Ethnologie, géographie humaine et sociale
+10401;Prehistory;Ur- und Frühgeschichte;Préhistoire
+10402;Archaeology;Archäologie;Archéologie
+10403;Ethnology;Ethnologie;Ethnologie
+10404;Visual arts and Art history;Kunstgeschichte;Histoire de l`art
+10405;Musicology;Musikologie;Musicologie
+10406;Theatre and Cinema;Theater- und Filmwissenschaften;Théâtre et cinéma
+10407;Architecture and Social urban science;Architektur, Urbanistik;Architecture, urbanisme
+10500;Psychology, educational studies;Psychologie, Erziehungs- und Bildungswissenschaften;Psychologie, pédagogie et sciences de l'éducation
+10501;German and English languages and literature;Schwerpunkt Germanistik und Anglistik;Langues germaniques et anglaises
+10502;Romance languages and literature;Schwerpunkt Romanistik;Langues romanes
+10503;Other languages and literature;Weitere Sprachen;Autres langues
+10600;Sociology, social work, political sciences, media and communication studies, health;Soziologie, Soziale Arbeit, Politikwissenschaften, Medien- und Kommunikationswissenschaften, Gesundheit;Sociologie, travail social, sciences politiques, sciences de la communication et des médias, santé
+10601;Social work;Soziale Arbeit;Travail social
+10602;Health;Gesundheit;Santé
+10603;Arts;Bildende Kunst;Arts
+10604;Music, Theatre;Musik und Theater;Musique, théâtre
+10605;Applied psychology;Angewandte Psychologie;Psychologie appliquée
+10607;Applied linguistics;Angewandte Linguistik;Linguistique appliquée
+10700;Economics, law;Wirtschaftswissenschaften, Recht;Sciences économiques, droit
+20000;Mathematics, Natural- and Engineering Sciences;Mathematik, Natur- und Ingenieurwissenschaften;Mathématiques, sciences naturelles et de l`ingénieur
+20100;Mathematics;Mathematik;Mathématiques
+20200;Astronomy, Astrophysics and Space Sciences;Astronomie, Astrophysik und Weltraumforschung;Astronomie, astrophysique et recherche spatiale
+20300;Chemistry;Chemie;Chimie
+20301;Physical Chemistry;Physikalische Chemie;Chimie physique
+20303;Inorganic Chemistry;Anorganische Chemie;Chimie inorganique
+20304;Organic Chemistry;Organische Chemie;Chimie organique
+20400;Physics;Physik;Physique
+20401;Theoretical Physics;Theoretische Physik;Physique théorique
+20402;Nuclear Physics;Kernphysik;Physique nucléaire
+20403;Particle Physics;Elementarteilchenphysik;Physique des particules élémentaires
+20404;Condensed Matter Physics;Physik der kondensierten Materie;Physique de la matière condensée
+20405;Technical Physics;Technische Physik;Physique technique
+20406;Plasma Physics;Plasmaphysik;Physique des plasmas
+20409;Other disciplines of Physics;Andere Gebiete der Physik;Autres secteurs de la physique
+20500;Engineering Sciences;Ingenieurwissenschaften;Sciences de l`ingénieur
+20501;Civil Engineering;Bauingenieurwesen;Génie civil
+20502;Mechanical Engineering;Maschineningenieurwesen;Génie mécanique
+20503;Fluid Dynamics;Fluiddynamik;Dynamique des fluides
+20504;Electrical Engineering;Elektroingenieurwesen;Génie électrique
+20505;Material Sciences;Materialwissenschaften;Sciences des matériaux
+20506;Information Technology;Informatik;Informatique
+20507;Chemical Engineering;Chemische Verfahrenstechnik;Génie chimique
+20508;Microelectronics. Optoelectronics;Mikroelektronik, Optoelektronik;Microélectronique, optoélectronique
+20509;Agricultural Engineering;Agraringenieurwissenschaften;Génie rural
+20510;Forest Engineering;Forstingenieurwissenschaften;Génie forestier
+20511;Other disciplines of Engineering Sciences;Andere Gebiete der Ingenieurwissenschaften;Autres secteurs des sciences de l`ingénieur
+20700;Environmental Sciences;Umweltwissenschaften;Sciences de l`environnement
+20701;Pedology;Bodenkunde;Pédologie
+20702;Geomorphology;Geomorphologie;Géomorphologie
+20703;Meteorology;Meteorologie;Méteorologie
+20704;Climatology. Atmospherical Chemistry, Aeronomy;Klimatologie, Atmosphärenphysik, Aeronomie;Climatologie, physique de l`atmosphère, aéronomie
+20705;Hydrology, Limnology, Glaciology;Hydrologie, Limnologie, Glaziologie;Hydrologie, limnologie, glaciologie
+20706;Oceanography;Ozeanographie;Océanographie
+20709;Other disciplines of Environmental Sciences;Andere Gebiete der Umweltwissenschaften;Autres secteurs des sciences de l`environnement
+20800;Earth Sciences;Erdwissenschaften;Sciences de la terre
+20801;Geology;Geologie;Géologie
+20802;Geophysics;Geophysik;Géophysique
+20803;Geochemistry;Geochemie;Géochimie
+20804;Geochronology;Geochronologie;Géochronologie
+20805;Palaeontology;Paläontologie (Erdw.);Paléontologie (sc. terre)
+20806;Mineralogy;Mineralogie;Minéralogie
+20809;Other disciplines of Earth Sciences;Andere Gebiete der Erdwissenschaften;Autres secteurs des sciences de la terre
+30000;Biology and Medicine;Biologie und Medizin;Biologie et médecine
+30100;Basic Biological Research;Biologische Grundlagenwissenschaften;Sciences biologiques de base
+30101;Biochemistry;Biochemie;Biochimie
+30102;Molecular Biology;Molekularbiologie;Biologie moléculaire
+30103;Cellular Biology, Cytology;Zellbiologie, Zytologie;Biologie cellulaire, cytologie
+30104;Genetics;Genetik;Génétique
+30105;Embryology, Developmental Biology;Embryologie, Entwicklungsbiologie;Embryologie, biologie de développement
+30106;Radiobiology;Strahlenbiologie;Radiobiologie
+30107;Experimental Microbiology;Experimentelle Mikrobiologie;Microbiologie expérimentale
+30108;Biophysics;Biophysik;Biophysique
+30200;General Biology;Allgemeine Biologie;Biologie générale
+30201;Botany;Botanik;Botanique
+30202;Zoology;Zoologie;Zoologie
+30203;Paleontology (biol.);Paläontologie;Paléontologie (biol.)
+30204;Anthropology, Primatology;Anthropologie, Primatologie;Anthropologie, primatologie
+30205;Agricultural and Forestry Sciences;Forst- und Agrarwissenschaften;Agronomie et sciences forestières
+30206;Environmental Research;Umweltforschung;Sciences de l`environnement
+30207;Ecology;Oekologie;Ecologie
+30209;Animal Breeding;Tierzucht;Elevage
+30300;Basic Medical Sciences;Medizinische Grundlagenwissenschaften;Sciences médicales de Base
+30301;Structural Research;Strukturforschung;Recherches sur les structures
+30302;Neurophysiology and Brain Research;Neurophysiologie und Hirnforschung;Neurophysiologie et neurologie cérébrale
+30303;Cardiovascular Research;Herz- und Kreislaufforschung;Cardio-angiologie
+30304;Endocrinology;Endokrinologie;Endocrinologie
+30305;Physiology : other topics;Physiologie: Andere Gebiete;Physiologie: autres secteurs
+30306;Pharmacology, Pharmacy;Pharmakologie, Pharmazie;Pharmacologie, pharmacie
+30307;Medical Microbiology;Medizinische Mikrobiologie;Microbiologie médicale
+30400;Experimental Medicine;Experimentelle Medizin;Médecine expérimentale
+30401;Experimental Cancer Research;Experimentelle Krebsforschung;Recherches expérimentales sur le cancer
+30402;Pathophysiology;Pathophysiologie;Pathophysiologie
+30403;Immunology, Immunopathology;Immunologie, Immunpathologie;Immunologie, immunopathologie
+30405;Nutritional Research, Vitaminology;Ernährungsforschung, Vitaminologie;Recherches sur l`alimentation, vitaminologie
+30407;Ethology;Verhaltensforschung;Ethologie
+30700;Clinical Medicine;Klinische Medizin;Médecine clinique
+30701;Internal Medicine;Innere Medizin;Médecine interne
+30702;Surgery;Chirurgie;Chirurgie
+30703;Clinical Cancer Research;Klinische Krebsforschung;Cancérologie clinique
+30704;Clinical Pharmacology;Klinische Pharmakologie;Pharmacologie clinique
+30705;Dermatology;Dermatologie;Dermatologie
+30706;Gynaecology;Gynäkologie;Gynécologie
+30707;Paediatrics;Pädiatrie;Pédiatrie
+30708;Neurology, Psychiatry;Nervenheilkunde, Psychiatrie;Neurologie, psychiatrie
+30709;Otorhinolaryngology;Otorhinolaryngologie;Oto-rhino-laryngologie
+30710;Ophthalmology;Ophthalmologie;Ophthalmologie
+30711;Dentistry;Zahnheilkunde;Médecine dentarie
+30712;Tropical Medicine;Tropenmedizin;Médecine tropicale
+30713;Veterinary Medicine;Veterinärmedizin;Médecine vétérinaire
+30714;Biomedical Engineering;Biomedical Engineering;Biomedical Engineering
+30715;Clinical Cardiovascular Research;Klinische Herz- und Kreislaufforschung;Cardio-angiologie clinique
+30716;Clinical Endocrinology;Klinische Endokrinologie;Endocrinologie clinique
+30717;Clinical Pathophysiology;Klinische Pathophysiologie;Pathophysiologie clinique
+30718;Clinical Immunology and Immunopathology;Klinische Immunologie und Immunpathologie;Immunologie et immunopathologie clinique
+30719;Clinical Nutritional Research;Klinische Ernährungsforschung;Recherches sur l`alimentation clinique
+30720;Geriatrics;Geriatrie;Gériatrie
+30721;Sport Medicine;Sportmedizin;Médecine sportive
+30800;Preventive Medicine (Epidemiology/Early Diagnosis/Prevention);Präventivmedizin (Epidemiologie/Früherfassung);Médecine préventive (epidémiologie/dépistage précoce/prévention)
+30801;Congenital Disorders;Angeborene Gesundheitsstörungen;Infirmités congénitales
+30802;Mental Disorders, Psychosomatic Diseases;Psychische Störungen, Psychosomatische Leiden;Troubles psychiques, maladies psychosomatiques
+30803;Addictive Diseases;Suchtkrankheiten;Toxicomanies
+30804;Accidents;Unfälle;Accidents
+30805;Cancer;Krebs;Cancer
+30806;Cardiovascular Diseases;Herz- und Kreislauferkrankungen;Maladies cardio-vasculaires
+30807;Metabolic Disorders;Stoffwechselstörungen;Troubles du métabolisme
+30808;Infectious Diseases;Infektionskrankheiten;Maladies infectieuses
+30809;Diseases of Bones and Joints;Leiden der Knochen und Gelenke;Maladies ostéo-articulaires
+30810;Oral Preventive Medicine;Orale Präventivmedizin;Médecine préventive orale
+30811;Respiratory Diseases;Atembeschwerden;Troubles respiratoires
+30812;Methods of Epidemiology and Preventive Medicine;Methoden der Epidemiologie und der Präventivmedizi;Méthodologie de l`épidémiologie et de la médecine préventive
+30900;Social Medicine;Sozialmedizin;Médecine sociale
+30901;Group Medicine;Gruppenmedizin;Médecine de groupe
+30902;Social Paediatrics;Soziale Pädiatrie;Pédiatrie sociale
+30903;Medico-Social Problems of Youth;Sozialmedizinische Probleme der Jugend;Problemès médico-sociaux des jeunes
+30904;Medico-Social Problems of the Elderly;Sozialmedizinische Probleme der Betagten;Problèmes médico-sociaux des personne âgées
+30905;Rehabilitation;Rehabilitation;Réhabilitation
+30906;Human Ecology;Humanökologie;Ecologie humaine
+30907;Environmental Toxicology;Umwelttoxikologie;Toxicologie de l`environnement
+30908;Dietetics;Ernährungsfragen;Diététique
+30909;Occupational Medicine, Ergonomy;Arbeitsmedizin, Ergonomie;Médecine du travail, ergonomie
+30910;Health Education;Gesundheitserziehung;Education de la santé
+30911;Public Health and Health Services;Die Gesundheit und ihre Infrastruktur. Gesundheits;La santé publique et son infrastructure. Régime sanitaire
+30912;Medical Statistics;Medizinische Statistik;Statistiques médicales
+50000;Interdisciplinary;Interdisziplinär;Interdisciplinaire
