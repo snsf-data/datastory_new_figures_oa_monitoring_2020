@@ -253,7 +253,7 @@ girafe(ggobj = p_overall_oa_shares,
 ```
 
 <div class="caption">
-SNSF-funded publications in 2018-2020 are available here for download: <a href="https://raw.githubusercontent.com/snsf-data/datastory_new_figures_oa_monitoring_2020/main/data/publications_2020_dec_2021.csv" target="_blank">2020 publications</a> and <a href="https://raw.githubusercontent.com/snsf-data/datastory_oa_monitoring_new_figures_2018_2019/main/data/publications_2018_2019_dec_2020.csv">2018-19 publications</a>.
+SNSF-funded publications in 2018-2020 are available here for download: <a href="https://raw.githubusercontent.com/snsf-data/datastory_new_figures_oa_monitoring_2020/main/data/publications_2020_dec_2021.csv" target="_blank">2020 publications</a> and <a href="https://raw.githubusercontent.com/snsf-data/datastory_oa_monitoring_new_figures_2018_2019/main/data/publications_2018_2019_dec_2020.csv" target="_blank">2018-19 publications</a>.
 
 </div>
 </div>
@@ -579,7 +579,7 @@ girafe(ggobj = p_color_share_lvl1,
        ))
 ```
 <div class="caption">
-SNSF-funded publications in 2018-2020 are available here for download: <a href="https://raw.githubusercontent.com/snsf-data/datastory_new_figures_oa_monitoring_2020/main/data/publications_2020_dec_2021.csv" target="_blank">2020 publications</a> and <a href="https://raw.githubusercontent.com/snsf-data/datastory_oa_monitoring_new_figures_2018_2019/main/data/publications_2018_2019_dec_2020.csv">2018-19 publications</a>. Non-assignable publications are those that have been retrieved from the newly added databases <a href="https://www.crossref.org/" target="_blank">Crossref</a> and <a href="https://app.dimensions.ai/discover/publication" target="_blank">Dimensions</a> but are not yet clearly assignable to an SNSF grant from which the discipline could be deduced.
+SNSF-funded publications in 2018-2020 are available here for download: <a href="https://raw.githubusercontent.com/snsf-data/datastory_new_figures_oa_monitoring_2020/main/data/publications_2020_dec_2021.csv" target="_blank">2020 publications</a> and <a href="https://raw.githubusercontent.com/snsf-data/datastory_oa_monitoring_new_figures_2018_2019/main/data/publications_2018_2019_dec_2020.csv" target="_blank">2018-19 publications</a>. Non-assignable publications are those that have been retrieved from the newly added databases <a href="https://www.crossref.org/" target="_blank">Crossref</a> and <a href="https://app.dimensions.ai/discover/publication" target="_blank">Dimensions</a> but are not yet clearly assignable to an SNSF grant from which the discipline could be deduced.
 
 </div>
 ```{r oa-shares-disp-2, out.width="100%", fig.height=7}
@@ -702,7 +702,7 @@ girafe(ggobj = p_color_share_lvl2,
        ))
 ```
 <div class="caption">
-SNSF-funded publications in 2018-2020 are available here for download: <a href="https://raw.githubusercontent.com/snsf-data/datastory_new_figures_oa_monitoring_2020/main/data/publications_2020_dec_2021.csv" target="_blank">2020 publications</a> and <a href="https://raw.githubusercontent.com/snsf-data/datastory_oa_monitoring_new_figures_2018_2019/main/data/publications_2018_2019_dec_2020.csv">2018-19 publications</a>. Non-assignable publications are those that have been retrieved from the newly added databases <a href="https://www.crossref.org/" target="_blank">Crossref</a> and <a href="https://app.dimensions.ai/discover/publication" target="_blank">Dimensions</a> but are not yet clearly assignable to an SNSF grant from which the discipline could be deduced.
+SNSF-funded publications in 2018-2020 are available here for download: <a href="https://raw.githubusercontent.com/snsf-data/datastory_new_figures_oa_monitoring_2020/main/data/publications_2020_dec_2021.csv" target="_blank">2020 publications</a> and <a href="https://raw.githubusercontent.com/snsf-data/datastory_oa_monitoring_new_figures_2018_2019/main/data/publications_2018_2019_dec_2020.csv" target="_blank">2018-19 publications</a>. Non-assignable publications are those that have been retrieved from the newly added databases <a href="https://www.crossref.org/" target="_blank">Crossref</a> and <a href="https://app.dimensions.ai/discover/publication" target="_blank">Dimensions</a> but are not yet clearly assignable to an SNSF grant from which the discipline could be deduced.
 
 </div>
 </div>
